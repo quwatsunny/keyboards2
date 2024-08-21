@@ -12,6 +12,7 @@ store(&NAME) 'Burushaski Girminas (بروشسکی)'
 store(&LAYOUTFILE) 'burushaski_girminas_perso_arabic.keyman-touch-layout'
 store(&MESSAGE) 'یہ بروشسکی کی بورڈ بروشسکی کے عربی /فارسی رسم الخط میں لکھنے کے لیے بنائی گئ ہے۔ '
 store(&KMW_HELPTEXT) 'څنژ، ژمےࣷ، ݜمن، ݜپیک'
+store(&KMW_EMBEDCSS) 'burushaski_girminas_perso_arabic.css'
 begin Unicode > use(main)
 
 
